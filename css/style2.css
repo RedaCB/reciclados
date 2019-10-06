@@ -1,0 +1,29 @@
+body {
+  background-color: #34495E;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+
+.has-warning .control-label {
+  color: #ECF0F1;
+  font-weight: 400;
+}
+
+.has-warning .form-control {
+  font-size: 30px;
+  height: 50px;
+}
+
+.has-warning .input-group-addon {
+  border-right: 0px;
+  font-size: 30px;
+  padding-top: 2px;
+}
+
+.btn-random {
+  padding-bottom: 8px;
+}
+
+.btn-random:focus {
+  outline: none;
+}
